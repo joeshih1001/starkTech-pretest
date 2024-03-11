@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarkTech-preTest/static/css/main.328c6e00.css",
+    "main.js": "/StarkTech-preTest/static/js/main.975352aa.js",
+    "static/js/453.f48b89ab.chunk.js": "/StarkTech-preTest/static/js/453.f48b89ab.chunk.js",
+    "index.html": "/StarkTech-preTest/index.html",
+    "main.328c6e00.css.map": "/StarkTech-preTest/static/css/main.328c6e00.css.map",
+    "main.975352aa.js.map": "/StarkTech-preTest/static/js/main.975352aa.js.map",
+    "453.f48b89ab.chunk.js.map": "/StarkTech-preTest/static/js/453.f48b89ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328c6e00.css",
+    "static/js/main.975352aa.js"
+  ]
+}
