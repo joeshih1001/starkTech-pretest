@@ -1,14 +1,17 @@
-# Stark Tect pre-test
+# Stark Tech Pre-Test
 
-## Installation
+## Introduction
 
-npm install
+This project is a pre-test for Stark Tech, featuring a stock code search functionality and the ability to query monthly revenue for the past 3, 5, and 8 years.
 
 ## Features
 
-股票代碼查詢
-月營收近3/5/8年查詢
+- Stock Code Search: Allows users to search for stock codes.
+- Monthly Revenue Query: Provides the ability to query monthly revenue for the past 3, 5, and 8 years.
 
-## Deploy
+## Installation
 
-使用github page部屬
+To install the necessary dependencies, run the following command:
+
+```bash
+npm install
